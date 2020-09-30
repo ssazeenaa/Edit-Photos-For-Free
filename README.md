@@ -1,12 +1,27 @@
-# Gridome Bootstrap Portfolio Blog starter for Gridsome
+# Gridome Website For 
+# <a href="https://editphotosforfree.com">EDIT PHOTOS FOR FREE</a>
 
-### 1. Install Gridsome CLI tool if you don't have
+This Site is all about image editing tools and apps specially built to ease the repetitive tasks for Photographers and Designers. It contains currently 4 main apps:
 
-`npm install --global @gridsome/cli`
+1. Typography Maker Online
+2. Online Photo Editor and Collage Maker
+3. Remove Background From Image Online
+4. Make Image Transparent Online
 
-### 2. Create the Gridsome project with this starter
+and 7 batch image editing tools:
 
-1. `gridsome create my-project Karthick-Ramachandran/gridsome-portfolio-starter` to install the starter
-2. `cd gridsome-portfolio-starter` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+1. Edit Images in Bulk
+2. Compress Multiple JPG Images in Bulk
+3. Compress Multiple PNG Images Online
+4. Batch Image Resize Online
+5. Crop Images in Multiple Regions
+6. Crop Multiple Images in Bulk
+7. Batch Watermark Images Online
+
+### How to install
+
+yarn install
+
+### How to run
+
+yarn develop
