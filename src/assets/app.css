@@ -1,0 +1,17 @@
+/* Use this file to add your custom styles if needed */
+
+/* Page transition */
+.fade-enter-active {
+  transition: opacity 0.7s;
+}
+
+.fade-enter {
+  opacity: 0;
+}
+
+.nav-bottom {
+  border-bottom: 2px solid violet;
+}
+/* end of page transition */
+
+/* Start yorn own */
